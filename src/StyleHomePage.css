@@ -1,0 +1,29 @@
+.upHead{
+    padding-left:10%;
+    padding-right:10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size:56px;
+    text-align:center;
+    color:#3F3D56;
+    font-family:Nunito Sans;
+    font-style:normal;
+    width: 90%;
+}
+
+@media screen and (max-width:800px){
+    .upHead{
+        font-size: 30px;
+        padding: 10%;
+        width: 90%;
+    }
+    
+}
+@media screen and (max-width:600px){
+    .upHead{
+        font-size: 20px;
+        padding: 10%;
+        width: 90%;
+    }
+   
+}
